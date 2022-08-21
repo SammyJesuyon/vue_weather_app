@@ -42,4 +42,8 @@ npx tailwindcss init -p
 Create a tailwind.css file in the assets directory.
 import it in the main.js file.
 
-API: mapbox API, rapidAPI
+API: mapbox API, Weatherbit.io
+
+### About the app:
+My weather cast collects a query from the user and displays the weather information for that particular day and also displays forecast for the next 16 days.
+The app is also able to track any region that is previewed as the first step of the app is to preview a region.
